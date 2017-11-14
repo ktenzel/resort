@@ -1,20 +1,21 @@
 body {
   background-position: center;
-  background-image: url("../img/resort.jpg");
-  background-color: #a8e3f4;
+  background-image: url("../img/river.jpg");
+  background-color: #7a9e5a;
   background-repeat: no-repeat;
 }
 
 h1{
-  background-color: lightblue;
+  background-color: #d1a966;
   color: white;
   font-weight: bold;
+  font-size: 30px;
   text-align: center;
-  text-shadow: 0 0 3px #42f4f1, 0 0 5px #42f4f1;
+  text-shadow: 0 0 6px #7a9e5a, 0 0 10px #7a9e5a;
 }
 
 ul {
-  font-weight: 100;
+  font-weight: 300;
   text-shadow: 3px;
   color: white;
 }
