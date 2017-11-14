@@ -1,12 +1,12 @@
 body {
   background-position: center;
-  background-image: url("../img/resort.jpg");
-  background-color: #a8e3f4;
+  background-image: url("../img/ibiza.jpg");
+  background-color: #675b9e;
   background-repeat: no-repeat;
 }
 
 h1{
-  background-color: lightblue;
+  background-color: gold;
   color: white;
   font-weight: bold;
   text-align: center;
