@@ -1,0 +1,29 @@
+body {
+  background-position: center;
+  background-image: url("../img/resort.jpg");
+  background-color: #a8e3f4;
+  background-repeat: no-repeat;
+}
+
+h1{
+  background-color: lightblue;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 0 0 3px #42f4f1, 0 0 5px #42f4f1;
+}
+
+ul {
+  font-weight: 100;
+  text-shadow: 3px;
+  color: white;
+}
+
+#ol {
+  align-items: center;
+  text-align: center;
+}
+
+#li{
+  align-items: center;
+}
